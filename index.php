@@ -16,12 +16,13 @@
      <div class="container">
         Hello world
         <button class="btn btn-primary"> xxx </button>
+        <button class="btn btn-primary"> xxx </button>
     <img src="img/monkey.jpg" alt="">
      </div>
 
      <script>
          $(()=>{
-            alert("Hello");
+            //alert("Hello");
          });
      </script>
     

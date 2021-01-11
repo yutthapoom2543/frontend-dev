@@ -10,13 +10,16 @@
     <script src="js/jquery-3.5.1.min.js"></script>
     <script src="js/default.js"></script>
     
+    <link rel="stylesheet" href="icon/css/all.css">
+    
 
 </head>
 <body>
      <div class="container">
-        Hello world
-        <button class="btn btn-primary"> xxx </button>
-        <button class="btn btn-primary"> xxx </button>
+     
+        
+        <button class="btn btn-primary" > <i class="fab fa-accessible-icon" ></i> xxx </button>
+        <button class="btn btn-primary"><i class="fas fa-biking"></i> xxx </button>
     <img src="img/monkey.jpg" alt="">
      </div>
 
